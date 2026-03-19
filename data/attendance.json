@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1774004605427,
+    "name": "saad",
+    "email": "saadhussaini678@gmail.com",
+    "eventId": "2",
+    "eventName": "Creative Design Expo",
+    "registeredAt": "2026-03-20T11:03:25.427Z"
+  },
+  {
+    "id": 1774005504265,
+    "name": "saad hussain",
+    "email": "nightmaresaad007@gmail.com",
+    "eventId": "3",
+    "eventName": "Startup Pitch Night",
+    "registeredAt": "2026-03-20T11:18:24.265Z"
+  },
+  {
+    "id": 1774005553088,
+    "name": "saady",
+    "email": "wazir@gmail.com",
+    "eventId": "2",
+    "eventName": "Creative Design Expo",
+    "registeredAt": "2026-03-20T11:19:13.088Z"
+  }
+]
