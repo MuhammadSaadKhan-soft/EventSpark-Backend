@@ -1,8 +1,8 @@
 const fs = require("fs");
 const path = require("path");
 
-const MESSAGES_FILE = path.join(__dirname, "../data/messages.json");
-
+// const MESSAGES_FILE = path.join(__dirname, "../data/messages.json");
+const FILE = path.join("/tmp", "messages.json");
 const readMessages = () => {
     if (!fs.existsSync(MESSAGES_FILE)) {
         fs.writeFileSync(MESSAGES_FILE, JSON.stringify([], null, 2));
