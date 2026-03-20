@@ -1,7 +1,8 @@
 const fs = require("fs");
 const path = require("path");
 
-const FILE = path.join(__dirname, "../data/attendance.json");
+const FILE = path.join("/tmp", "attendance.json");
+// const FILE = path.join(__dirname, "../data/attendance.json");
 
 const read = () => {
     if (!fs.existsSync(FILE)) {
